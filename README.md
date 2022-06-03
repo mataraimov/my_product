@@ -9,6 +9,6 @@
 
 - Deployed online
 
-- Heroku [Website Link]
+- Heroku [Website Link]https://indriver-parody.herokuapp.com/main
 
 ## Screenshots:
