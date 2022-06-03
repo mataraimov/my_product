@@ -12,3 +12,5 @@
 - Heroku [Website Link]https://indriver-parody.herokuapp.com/main
 
 ## Screenshots:
+<img align="center"  width="550px" src="https://github.com/mataraimov/my_product/blob/main/Screenshot%20(1).png" />
+<img align="center"  width="550px" src="https://github.com/mataraimov/my_product/blob/main/Screenshot%20(2).png" />
